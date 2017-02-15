@@ -1,9 +1,8 @@
 <!DOCTYPE html>
 <html>
     <head>
-    <title> This is a test title </title>
-    <!-- Metadata goes here -->
-    <meta name="Description" content="This is placeholder test"> == $0
+        <title> This is a test title | BetamoreWebsite</title>
+        <meta name="Description" content="This is placeholder text for Betamore Website">
     </head>
     <body>
         <!-- Content goes here -->
